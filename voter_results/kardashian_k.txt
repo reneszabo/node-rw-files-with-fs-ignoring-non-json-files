@@ -1,0 +1,4 @@
+    "name": "Kimmy Kardashian"
+    , "occupation": "Self Appointed Awesome Person"
+    , "votedFor": "Herself and Kanye"
+    , "politcalAffiliation": "Shopping"

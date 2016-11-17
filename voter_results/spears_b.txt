@@ -1,0 +1,4 @@
+"name": "Brit Brit",
+"occupation": "Has Been",
+"sadFact": "I went to her concert in Vegas",
+"pastOccupation": "Mickey Mouse Club"
